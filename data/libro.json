@@ -1,0 +1,14 @@
+{
+	"model" : [{
+		"isbn" : 9789568410575,
+		"titulo" : "Steve Jobs, La Biografía Exclusiva Del Fundador De Apple",
+		"autor" : "Walter Isaacson",
+		"precioReferencia" : "19.000"
+	},{
+		"isbn" : 9788479534455,
+		"titulo" : "Quien Se Ha Llevado Mi Queso: Como Adaptarnos a Un Mundo En Constante Cambio",
+		"autor" : "Johnson Spencer",
+		"precioReferencia" : "9.520"
+	}],
+	"success" : "true"
+}
